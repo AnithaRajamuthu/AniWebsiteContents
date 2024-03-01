@@ -1,7 +1,7 @@
 module.exports = {
-  HOST: "localhost",
+  HOST: "testdb.c1goi8o4aaao.us-east-1.rds.amazonaws.com",
   USER: "root",
-  PASSWORD: "root@123",
+  PASSWORD: "root1234",
   DB: "testdb",
   dialect: "mysql",
   pool: {
