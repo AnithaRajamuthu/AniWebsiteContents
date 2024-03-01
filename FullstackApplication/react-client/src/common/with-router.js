@@ -1,5 +1,4 @@
 import React from 'react'
-import ReactDOM from 'react-dom'
 import { useLocation, useNavigate, useParams } from "react-router-dom";
 
 export const withRouter = (Component) => {
